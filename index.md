@@ -11,7 +11,7 @@ tagline: Data Scientist at McKinsey & Company, Stat-ML researcher
 
 ### About
 I am a Data Scientist at McKinsey & Company. 
-I graduated from the University of Chicago in 2017 with a degree in Computational and Applied Mathematics.
+I graduated from the University of Chicago in 2017 with a degree in Computational and Applied Mathematics, with internships in data science at Nielsen and Uptake.
 
 I'm working with [Panos Toulis](http://faculty.chicagobooth.edu/Panagiotis.toulis/) on statistically motivated topics in stochastic gradient descent (SGD). 
 I will be applying to Statistics - Machine Learning PhD programs this fall of 2018. 
