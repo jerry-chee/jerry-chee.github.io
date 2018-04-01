@@ -4,13 +4,12 @@ title: Jerry Chee
 tagline: Data Scientist at McKinsey & Company, Stat-ML researcher 
 ---
 
-![image](./assets/Jerry Chee.jpg){: height="256px" width="256px"} | $$\quad$$ Email: Jerry9567@gmail.com
-
+![image](./assets/Jerry Chee.jpg){: height="256px" width="256px"} **Email:** Jerry9567@gmail.com 
 
 [comment]: <> (### Contact Email: Jerry9567@gmail.com)
 
 ### About
-I am a Data Scientist at McKinsey & Company. 
+I'm a data scientist at McKinsey & Company. 
 I graduated from the University of Chicago in 2017 with a degree in Computational and Applied Mathematics, with internships in data science at Nielsen and Uptake.
 
 I'm working with [Panos Toulis](http://faculty.chicagobooth.edu/Panagiotis.toulis/) on statistically motivated topics in stochastic gradient descent (SGD). 
