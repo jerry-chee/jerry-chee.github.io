@@ -4,7 +4,9 @@ title: Jerry Chee
 tagline: Data Scientist at McKinsey & Company, Stat-ML researcher 
 ---
 
-![image](./assets/Jerry Chee.jpg){: height="256px" width="256px"} **Email:** Jerry9567@gmail.com 
+![image](./assets/Jerry Chee.jpg){: height="256px" width="256px"} 
+
+**Email:** Jerry9567@gmail.com 
 
 [comment]: <> (### Contact Email: Jerry9567@gmail.com)
 
