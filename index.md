@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jerry Chee 
-tagline: Research Intern at Baidu US Big Data Lab 
+tagline: Research Intern at Baidu
 description: Jerry Chee McKinsey
 ---
 ![image](./assets/Jerry Chee.jpg){: height="256px" width="256px"}
@@ -13,12 +13,12 @@ description: Jerry Chee McKinsey
 ---
 
 #### About
-Starting March 2019, I will work as a Research Intern at the Baidu US Big Data Lab in Bellevue, WA. 
+Starting March 2019, I will work as a Research Intern at the Baidu Cognitive Computing Lab in Bellevue, WA. 
+Additionally, I've been working with [Panos Toulis](http://faculty.chicagobooth.edu/Panagiotis.toulis/) on statistically motivated topics in stochastic gradient descent (SGD). 
 
-I worked for 1.5 years as a data scientist at the consulting firm McKinsey & Company. 
+I worked for 1.5 years as a data scientist at the consulting firm McKinsey & Company.
 I graduated from the University of Chicago in 2017 with a degree in Computational and Applied Mathematics, with internships in data science at Nielsen and Uptake.
 
-I've been working with [Panos Toulis](http://faculty.chicagobooth.edu/Panagiotis.toulis/) on statistically motivated topics in stochastic gradient descent (SGD). 
 In the Fall of 2019 I will begin a Ph.D. in statistical machine learning (soon to be determined where!). 
 
 ---
