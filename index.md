@@ -13,7 +13,7 @@ description: Jerry Chee McKinsey
 ---
 
 #### About
-Starting March 2019, I will work as a Research Intern at the Baidu Cognitive Computing Lab in Bellevue, WA. 
+I am working as a Research Intern at the Baidu Cognitive Computing Lab in Bellevue, WA. 
 Additionally, I've been working with [Panos Toulis](http://faculty.chicagobooth.edu/Panagiotis.toulis/) on statistically motivated topics in stochastic gradient descent (SGD). 
 
 I worked for 1.5 years as a data scientist at the consulting firm McKinsey & Company.
