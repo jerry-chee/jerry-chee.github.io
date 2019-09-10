@@ -1,29 +1,34 @@
 ---
 layout: page
 title: Jerry Chee 
-tagline: Research Intern at Baidu 
+tagline: Department of Computer Science, Cornell University  
 description: Jerry Chee McKinsey
 ---
 ![image](./assets/Jerry Chee.jpg){: height="256px" width="256px"}
 
-**Email:** Jerry9567 [at] gmail.com
+**Email:** JerryChee [at] cs.cornell.edu
 
+[//]: # ([CV](assets/JerryChee_CV.pdf))
 [CV](assets/JerryChee_CV.pdf)
 
 ---
 
 #### About
-I am a Research Intern in the Baidu Cognitive Computing Lab in Bellevue, WA. 
-In the Fall of 2019 I will begin a Ph.D. in Computer Science at Cornell University!
+I am a first year Ph.D. student in Computer Science at Cornell University.
+I am interested in stochastic optimization and statistical machine learning.
+
+
+I was a Research Intern at the Baidu Cognitive Computing Lab in Bellevue, WA. 
 Additionally, I've been working with [Panos Toulis](http://faculty.chicagobooth.edu/Panagiotis.toulis/) at UChicago Booth on statistically motivated topics in stochastic gradient descent (SGD). 
 
-Previously, I worked for 1.5 years as a data scientist consultant at McKinsey & Company.
+In my previous professional life I worked as a data scientist consultant at McKinsey & Company.
 I graduated from the University of Chicago in 2017 with a degree in Computational and Applied Mathematics, with internships in data science at Nielsen and Uptake.
 
 ---
 
 #### Working Papers
 * Exact inference with stochastic gradient methods, with Panos Toulis
+* Understanding and detecting convergence for stochastic gradient descent with momentum, with Ping Li
 
 #### Publications
 * [Convergence diagnostics for stochastic gradient descent with constant step size](https://arxiv.org/pdf/1710.06382), with Panos Toulis, AISTATS 2018, **<span style="color: black">oral presentation</span>**. \\
