@@ -14,22 +14,18 @@ description: Jerry Chee McKinsey
 ---
 
 #### About
-I am a first year Ph.D. student in Computer Science at Cornell University.
-I am interested in stochastic optimization and statistical machine learning.
+I am a second year Ph.D. student in Computer Science at Cornell University.
+I am interested in scalability and resource efficiency in machine learning, particularly through stochastic methods and compression methods.
+I am also interested in the intersection of statistics and machine learning.
+I am fortunate to be advised by [Chris De Sa](https://www.cs.cornell.edu/~cdesa/).
 
-
-I was a Research Intern at the Baidu Cognitive Computing Lab in Bellevue, WA. 
-Additionally, I've been working with [Panos Toulis](http://faculty.chicagobooth.edu/Panagiotis.toulis/) at UChicago Booth on statistically motivated topics in stochastic gradient descent (SGD). 
+During the Spring and Summer of 2019 I was a Research Intern at the Baidu Cognitive Computing Lab in Bellevue, WA. 
+Additionally, I worked with [Panos Toulis](http://faculty.chicagobooth.edu/Panagiotis.toulis/) at UChicago Booth on statistically motivated topics in stochastic gradient descent (SGD). 
 
 In my previous professional life I worked as a data scientist consultant at McKinsey & Company.
 I graduated from the University of Chicago in 2017 with a degree in Computational and Applied Mathematics, with internships in data science at Nielsen and Uptake.
 
 ---
-
-#### Working Papers
-* Exact inference with stochastic gradient methods, with Panos Toulis
-* Understanding and detecting convergence for stochastic gradient descent with momentum, with Ping Li
-
 #### Publications
 * [Convergence diagnostics for stochastic gradient descent with constant step size](https://arxiv.org/pdf/1710.06382), with Panos Toulis, AISTATS 2018, **<span style="color: black">oral presentation</span>**. \\
 We focus on detecting the convergence of SGD with constant learning rate to its convergence phase.
