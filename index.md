@@ -2,7 +2,7 @@
 layout: page
 title: Jerry Chee 
 tagline: Department of Computer Science, Cornell University  
-description: Jerry Chee McKinsey
+description: Jerry Chee Personal Site
 ---
 ![image](./assets/Jerry Chee.jpg){: height="256px" width="256px"}
 
@@ -14,12 +14,14 @@ description: Jerry Chee McKinsey
 ---
 
 #### About
-I am a second year Ph.D. student in Computer Science at Cornell University.
+I am a third year Ph.D. student in Computer Science at Cornell University.
 I am interested in scalability and resource efficiency in machine learning, particularly through stochastic methods and compression methods.
 I am also interested in the intersection of statistics and machine learning.
 I am fortunate to be advised by [Chris De Sa](https://www.cs.cornell.edu/~cdesa/).
 
-During the Spring and Summer of 2019 I was a Research Intern at the Baidu Cognitive Computing Lab in Bellevue, WA. 
+During the Summer of 2021 I worked in IC3-AI at Microsoft, on using pruning to speed-up real-time audio enhancement models for Microsoft Teams.
+
+In previous years I was a Research Intern at the Baidu Cognitive Computing Lab in Bellevue, WA in the Spring and Summer of 2019
 Additionally, I worked with [Panos Toulis](http://faculty.chicagobooth.edu/Panagiotis.toulis/) at UChicago Booth on statistically motivated topics in stochastic gradient descent (SGD). 
 
 In my previous professional life I worked as a data scientist consultant at McKinsey & Company.
@@ -31,6 +33,11 @@ I graduated from the University of Chicago in 2017 with a degree in Computationa
 We focus on detecting the convergence of SGD with constant learning rate to its convergence phase.
 Borrowing from the theory of stopping times in stochastic approximation, we developed a simple diagnostic that uses inner products of successive gradients to detect convergence. 
 Theoretical and empirical results suggest that the diagnostic reliably detects the phase transition, which can speed up classical procedures.
+
+---
+#### In Submission
+* Pruning Neural Networks with Interpolative Decompositions. \\
+A principled approach to pruning by low-rank matrix approximation, using a novel application of the interpolative decomposition to approximate the activation output of a layer.
 
 ---
 #### Talks
