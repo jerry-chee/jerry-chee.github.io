@@ -4,7 +4,7 @@
 
 exclude: ["ReadMe.md", "Rakefile", "changelog.md", "_site"]
 highlighter: rouge
-#theme_setting: jekyll-theme-minimal
+# theme_setting: jekyll-theme-minimal
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
@@ -53,7 +53,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
-  #BASE_PATH : http://kbroman.org/simple_site
+  BASE_PATH : https://jerry-chee.github.io 
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
