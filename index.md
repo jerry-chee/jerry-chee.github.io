@@ -28,11 +28,11 @@ I have collaborated with industry and scientific practitioners across a diverse 
 I have developed novel methodologies across deep learning compression, scalable statistical inference, safe recommender systems, etc.
 
 In my previous professional life I worked as a data scientist consultant at McKinsey & Company.
-I graduated from the University of Chicago in 2017 with a degree in Computational and Applied Mathematics, where I worked with [[Panos Toulis](https://www.ptoulis.com)] at UChicago Booth on statistically motivated topics in stochastic gradient descent (SGD). 
+I graduated from the University of Chicago in 2017 with a degree in Computational and Applied Mathematics, where I worked with [Panos Toulis](https://www.chicagobooth.edu/faculty/directory/t/panagiotis-toulis-panos) at UChicago Booth on statistically motivated topics in stochastic gradient descent (SGD). 
 
 ---
 #### Publications
-**``Plus/minus the learning rate'': Easy and Scalable Statistical Inference with SGD**\\
+**"Plus/minus the learning rate": Easy and Scalable Statistical Inference with SGD**\\
 Jerry Chee, Hwanwoo Kim, Panos Toulis\\
 *In AISTATS 2023*\\
 
