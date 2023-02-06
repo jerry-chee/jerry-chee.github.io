@@ -28,7 +28,7 @@ I have collaborated with industry and scientific practitioners across a diverse 
 I have developed novel methodologies across deep learning compression, scalable statistical inference, safe recommender systems, etc.
 
 In my previous professional life I worked as a data scientist consultant at McKinsey & Company.
-I graduated from the University of Chicago in 2017 with a degree in Computational and Applied Mathematics, where I worked with [Panos Toulis](https://www.ptoulis.com) at UChicago Booth on statistically motivated topics in stochastic gradient descent (SGD). 
+I graduated from the University of Chicago in 2017 with a degree in Computational and Applied Mathematics, where I worked with [[Panos Toulis](https://www.ptoulis.com)] at UChicago Booth on statistically motivated topics in stochastic gradient descent (SGD). 
 
 ---
 #### Publications
