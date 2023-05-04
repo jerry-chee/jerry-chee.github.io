@@ -34,7 +34,8 @@ I graduated from the University of Chicago in 2017 with a degree in Computationa
 #### Publications
 **"Plus/minus the learning rate": Easy and Scalable Statistical Inference with SGD**\\
 Jerry Chee, Hwanwoo Kim, Panos Toulis\\
-*In AISTATS 2023* 
+*In AISTATS 2023*\\
+[[Proceedings](https://proceedings.mlr.press/v206/chee23a/chee23a.pdf)]
 
 **Model Preserving Compression for Neural Networks**\\
 Jerry Chee, Megan Renz, Anil Damle, Chris De Sa\\
