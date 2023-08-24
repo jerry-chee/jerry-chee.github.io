@@ -31,6 +31,15 @@ In my previous professional life I worked as a data scientist consultant at McKi
 I graduated from the University of Chicago in 2017 with a degree in Computational and Applied Mathematics, where I worked with [Panos Toulis](https://www.chicagobooth.edu/faculty/directory/t/panagiotis-toulis-panos) at UChicago Booth on statistically motivated topics in stochastic gradient descent (SGD). 
 
 ---
+
+#### Working Papers
+**QuIP: 2-Bit Quantization of Large Language Models With Guarantees**\\
+Jerry Chee, Yaohui Cai, Volodymyr Kuleshov, Chris De Sa\\
+*In submission*\\
+[[Arxiv]](https://arxiv.org/pdf/2307.13304.pdf) [[Code]](https://github.com/jerry-chee/QuIP)
+
+---
+
 #### Publications
 **"Plus/minus the learning rate": Easy and Scalable Statistical Inference with SGD**\\
 Jerry Chee, Hwanwoo Kim, Panos Toulis\\
@@ -45,7 +54,7 @@ Jerry Chee, Megan Renz, Anil Damle, Chris De Sa\\
 **Performance Optimizations on U-Net Speech Enhancement Models**\\
 Jerry Chee, Sebastian Braun, Vishak Gopal, Ross Cutler\\
 *In IEEE MMSP 2022*\\
-[[ArXiv](https://arxiv.org/abs/2110.04378)]
+[[Proceedings]](https://ieeexplore.ieee.org/document/9949392) [[ArXiv](https://arxiv.org/abs/2110.04378))
 
 **How Low Can We Go: Trading Memory for Error in Low-Precision Training**\\
 Chengrun Yang, Ziyang Wu, Jerry Chee, Chris De Sa, Madeleine Udell\\
