@@ -32,15 +32,13 @@ I graduated from the University of Chicago in 2017 with a degree in Computationa
 
 ---
 
-#### Working Papers
+#### Publications
+
 **QuIP: 2-Bit Quantization of Large Language Models With Guarantees**\\
 Jerry Chee, Yaohui Cai, Volodymyr Kuleshov, Chris De Sa\\
-*In submission*\\
+*In NeurIPS 2023, **<span style="color: red">Spotlight</span>***\\
 [[Arxiv]](https://arxiv.org/pdf/2307.13304.pdf) [[Code]](https://github.com/jerry-chee/QuIP)
 
----
-
-#### Publications
 **"Plus/minus the learning rate": Easy and Scalable Statistical Inference with SGD**\\
 Jerry Chee, Hwanwoo Kim, Panos Toulis\\
 *In AISTATS 2023*\\
